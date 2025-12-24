@@ -41,7 +41,7 @@ Here are some of my projects:
 | **Smart Dustbin System** | IoT project to monitor bin levels & notifications | [GitHub](link) |
 | **CollabBoard** | Real-time whiteboard using Socket.IO | [GitHub](link) |
 
-*GIFs/screenshots can be added for each project to make it interactive.*
+
 
 ---
 
