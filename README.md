@@ -37,7 +37,7 @@ Here are some of my projects:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **AI Mood Music App** | Recommends songs based on user mood | [GitHub](link) |
+| **Sony WH-1000XM6** | A cinematic, interactive 3D landing page showcasing the Sony WH-1000XM6 headphones experience. | [GitHub](https://wh1000xm6-cinematic-experience.vercel.app/) |
 | **Smart Dustbin System** | IoT project to monitor bin levels & notifications | [GitHub](link) |
 | **CollabBoard** | Real-time whiteboard using Socket.IO | [GitHub](link) |
 
