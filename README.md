@@ -37,9 +37,9 @@ Here are some of my projects:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Sony WH-1000XM6** | A cinematic, interactive 3D landing page showcasing the Sony WH-1000XM6 headphones experience. | [GitHub](https://wh1000xm6-cinematic-experience.vercel.app/) |
+| **Sony WH-1000XM6** | A cinematic, interactive 3D landing page showcasing the Sony WH-1000XM6 headphones experience. | [Live](https://wh1000xm6-cinematic-experience.vercel.app/) |
 | **Zomato Data Analysis** | Zomato data analysis using EDA | [GitHub](https://github.com/joyeeta-dhar/Zomato-Data-Analysis) |
-| **CollabBoard** | Real-time whiteboard using Socket.IO | [GitHub](link) |
+| **Coffee Shop Website** | Real-time whiteboard using Socket.IO | [Live](https://coffee-shop-website-gules-gamma.vercel.app/) |
 
 
 
